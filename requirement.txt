@@ -1,0 +1,7 @@
+This is my reuqirements
+Django
+Plotly
+Dash
+botto
+sklearn
+psycopg2
